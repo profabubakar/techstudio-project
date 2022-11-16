@@ -1,0 +1,21 @@
+*{
+    text-decoration: none!important;
+}
+
+
+p,a{
+    color: #898c8e;
+}
+
+.bi{
+    font-size: 30px;
+    cursor:pointer;
+}
+
+.bi-google{
+    color:teal;
+}
+
+a:hover{
+    color:red;
+}
